@@ -1,6 +1,6 @@
 name: country_map_svg
 description: "A free collection of maps for every country in the world, available in 11 sizes or in SVG."
-version: 0.0.2
+version: 0.0.3
 repository: "https://github.com/kmeljko/country_map_svg/tree/master"
 
 environment:
